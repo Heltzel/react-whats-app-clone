@@ -1,4 +1,16 @@
-https://youtu.be/tBr-PybP_9c?t=2644
-https://youtu.be/tBr-PybP_9c?t=3411
-https://youtu.be/tBr-PybP_9c?t=5166
-https://youtu.be/tBr-PybP_9c?t=5355
+# Whats-App-Clone
+
+## Objective:
+ 
+ Become more familiar with more complex React structures
+
+ ***
+ ## Contains:
+
+ <ul>
+ <li> create-react-app </li>
+ <li> react-bootstrap </li>
+ <li> socket.io </li>
+ </ul>
+
+ ***
